@@ -1,0 +1,25 @@
+.mainbody {
+    background: #98f3f5;
+}
+
+.card {
+    margin: 20px;
+}
+
+
+img {
+    border-radius: 60%;
+}
+
+.card-top {
+    margin: 10px;
+    text-align: center;
+}
+
+.card-top-text-content {
+    margin-top: 13px;
+}
+
+ul {
+    list-style-type: circle;
+}

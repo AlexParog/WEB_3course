@@ -1,0 +1,45 @@
+.mainbody {
+    background: aliceblue;
+}
+
+.callout {
+    padding: 20px;
+    border: 1px solid #eee;
+    border-left-width: 5px;
+    border-radius: 3px;
+    margin: -5px 0 20px;
+    border-left-color: #777;
+}
+
+.callout-danger {
+    border-left-color: #b82a25;
+}
+
+.callout-primary {
+    border-left-color: #206bb2;
+}
+
+.callout-success {
+    border-left-color: #288a28;
+}
+
+.callout-warning {
+    border-left-color: #a96f1d;
+}
+
+.callout-info {
+    border-left-color: #74ccea;
+}
+
+h4 {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+.btn {
+    margin-bottom: 10px;
+}
